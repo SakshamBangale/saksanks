@@ -12,6 +12,9 @@
     },
     "distDir": ".next",
     "cleanDistDir": true,
+
+
+    
     "assetPrefix": "",
     "cacheMaxMemorySize": 52428800,
     "configOrigin": "next.config.mjs",
